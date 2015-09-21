@@ -28,7 +28,7 @@ import java.net.URLConnection;
 public class DownloadingList extends ListActivity {
 
     // URL to get tracks JSON
-    private static String url = "https://api.soundcloud.com/resolve.json?url=https://soundcloud.com/ahmad-el-batanouni/sets/top-favs&client_id=22e8f71d7ca75e156d6b2f0e0a5172b3";
+    private static String url = "https://api.soundcloud.com/resolve.json?url=https://soundcloud.com/nescafeegypt/sets/classic-music&client_id=22e8f71d7ca75e156d6b2f0e0a5172b3";
 
     // JSON Node names
     private static final String TAG_TRACKS = "tracks";
